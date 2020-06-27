@@ -1,0 +1,18 @@
+{% extends 'security/base.html' %}
+
+{% block content %}
+
+
+{% if user.is_authenticated %}
+<p><strong>Name:</strong> {{user.first_name}} {{user.last_name}}</p>
+<p><strong>Username:</strong> {{user.username}}</p>
+<p><strong>Email:</strong> {{user.email}}</p>
+
+  <button style="background-color: #cc66ff"><a href="{% url 'count' %}"><font color="black" style="font-size: 20px">COUNT</font></a>></button>
+
+  <button style="background-color: #ff6600"><a href="{% url 'index' %}"><font color="black" style="font-size: 20px">BLOG</font></a>></button>
+
+
+{% endif %}
+
+{% endblock %}
