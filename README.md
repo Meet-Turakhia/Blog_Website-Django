@@ -10,5 +10,5 @@
   5. Bootstrap 4.0
   6. SQLITE3
  # Project Author
-  Meet Turakhia - https://github.com/Meet-Turakhia
+   Meet Turakhia - https://github.com/Meet-Turakhia
 
