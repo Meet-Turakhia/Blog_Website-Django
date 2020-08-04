@@ -9,7 +9,6 @@
   4. CSS3
   5. Bootstrap 4.0
   6. SQLITE3
- # Project Authors
+ # Project Author
  1. Meet Turakhia - https://github.com/Meet-Turakhia
- 2. Parth Chudasama - https://github.com/Parjunth
- 3. Karandeep Padam - https://github.com/Karandeep07
+
