@@ -1,5 +1,5 @@
-# Personal_Blog-Django
-- This is a personal blog made using python's web framework django. 
+# Blog_Website-Django
+- This is a blogging site made using python's web framework django. 
 - It follows public blog system. 
 - It uses django's inbuilt SQLITE database.
 - Tools Used:
